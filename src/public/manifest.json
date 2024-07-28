@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Twpic",
+    "version": "1.0",
+    "description": "cmv tw to img",
+    "permissions": ["activeTab", "scripting", "tabs","debugger"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}

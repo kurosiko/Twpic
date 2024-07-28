@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    a {
+        @apply text-white;
+    }
+}
+@layer base {
+    html {
+        @apply size-52 bg-slate-800 border-white border
+    }
+    body {
+        
+    }
+}
